@@ -1,0 +1,52 @@
+{
+    "images": [
+      {
+        "url": "/images/lights.jpg",
+        "caption": "lights"
+      },
+      {
+        "url": "/images/mountains.jpg",
+        "caption": "mountains"
+      },
+      {
+        "url": "/images/nature.jpg",
+        "caption": "nature"
+      },
+      {
+        "url": "/images/snow_wide.jpg",
+        "caption": "snow_wide"
+      },
+      {
+        "url": "/images/terre_wide.jpg",
+        "caption": "terre_wide"
+      },
+      {
+        "url": "/images/woods_wide.jpg",
+        "caption": "woods_wide"
+      },
+      {
+        "url": "/images/lights.jpg",
+        "caption": "lights"
+      },
+      {
+        "url": "/images/mountains.jpg",
+        "caption": "mountains"
+      },
+      {
+        "url": "/images/nature.jpg",
+        "caption": "nature"
+      },
+      {
+        "url": "/images/snow_wide.jpg",
+        "caption": "snow_wide"
+      },
+      {
+        "url": "/images/terre_wide.jpg",
+        "caption": "terre_wide"
+      },
+      {
+        "url": "/images/woods_wide.jpg",
+        "caption": "woods_wide"
+      }
+    ]
+}
