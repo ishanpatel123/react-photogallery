@@ -1,6 +1,6 @@
 ### `npm install`
 
-Installs all node dependencies required for the app
+Installs all node dependencies required for the app 
 
 ### `npm start`
 
